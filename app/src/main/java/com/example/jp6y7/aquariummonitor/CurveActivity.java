@@ -19,6 +19,7 @@ import java.util.List;
 public class CurveActivity extends AppCompatActivity {
 
     Button button;
+    int a;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
